@@ -1,0 +1,1 @@
+/home/leo/multimodal_robot/control_sentence/devel/./cmake.lock 7
